@@ -1,4 +1,3 @@
-# LiftOff
 # README  
 # SC-T-514-VEFT  
 # Lift Off  
@@ -6,6 +5,7 @@
 About the assignment
 
 ## To build
+TODO
 Needs the newest NodeJs (https://nodejs.org/en/).    
 Needs npm init -y and npm install --save apollo-server graphql nodeomon mongodb mongoose moment request   
 To run npm start  
